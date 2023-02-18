@@ -29,4 +29,4 @@ const char* password = "";
  * COLLAR
  */
 const uint8_t  tx_pin = D1; // PIN where 433 sender is located
-const uint16_t transmitter_id = 0x...; // use 
+const uint16_t transmitter_id = 0x...; // use id you got from 'collar' script RX example
