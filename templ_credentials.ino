@@ -8,8 +8,8 @@
  * WIFI
  */
 // @todo use wifiManager
-const char* ssid = "Dingsbumswlan";
-const char* password = "wlan4alle.";
+const char* ssid = "";
+const char* password = "";
 
 /**
  * Telegram
